@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="350" height="275" viewBox="0, 0, 350, 275">
+  <g id="Layer_1">
+    <g id="Sandwich">
+      <g id="Top">
+        <path d="M22.118,131.176 L125.719,15.974 L324.813,124.924 L26.022,131.176 L22.118,131.176 z" fill="#DCAB7F"/>
+        <path d="M22.118,131.176 L125.719,15.974 L324.813,124.924 L26.022,131.176 L22.118,131.176 z" fill-opacity="0" stroke="#000000" stroke-width="8"/>
+      </g>
+      <path d="M22.118,155.465 L324.813,154.109" fill-opacity="0" stroke="#ED0B0E" stroke-width="15" stroke-linecap="round" id="Tomato"/>
+      <g id="Bottom">
+        <path d="M19.769,217.201 L331.231,217.201 L331.231,250.026 L19.769,250.026 z" fill="#DCAB7F"/>
+        <path d="M19.769,217.201 L331.231,217.201 L331.231,250.026 L19.769,250.026 z" fill-opacity="0" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+      </g>
+      <path d="M331.229,194.716 C325.378,195.82 317.416,197.687 311.62,195.345 C304.035,192.28 303.125,180.955 294.501,178.051 C273.23,170.888 269.304,203.209 249.057,199.118 C234.77,196.232 233.802,174.548 216.064,177.107 C198.311,179.669 192.762,203.466 171.243,199.118 C158.1,196.463 150.476,174.884 135.449,178.68 C121.453,182.214 114.992,202.12 99.031,199.433 C86.959,197.4 82.056,179.776 69.462,175.535 C46.831,167.914 48.279,206.656 24.641,194.716" fill-opacity="0" stroke="#09C00F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+</svg>
