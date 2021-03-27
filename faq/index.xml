@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FAQ on Breadbar</title>
-    <link>www.breadbar.in/faq/</link>
+    <link>/faq/</link>
     <description>Recent content in FAQ on Breadbar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2020 11:48:38 +0530</lastBuildDate><atom:link href="www.breadbar.in/faq/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Oct 2020 11:48:38 +0530</lastBuildDate><atom:link href="/faq/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
